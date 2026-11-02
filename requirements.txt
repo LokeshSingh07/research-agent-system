@@ -1,0 +1,15 @@
+
+langchain
+langchain-core
+langchain-community
+
+langchain-groq
+langchain-google-genai
+langchain-openai
+
+tavily-python
+beautifulsoup4
+python-dotenv
+requests
+pydantic
+rich
